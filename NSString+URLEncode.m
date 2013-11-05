@@ -16,3 +16,5 @@
   
   return [self stringByAddingPercentEncodingWithAllowedCharacters:characterSet];
 }
+
+@end
